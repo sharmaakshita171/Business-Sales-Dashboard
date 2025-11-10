@@ -4,7 +4,7 @@
 This interactive Power BI dashboard analyzes business sales performance using the Superstore dataset. It provides key insights into **revenue, profit, and customer trends** across *regions, categories, and time*.
 
 # Objectives
-► Track total sales, profit, quantity, and profit margin
+► Track total sales, profit, quantity, and profit margin  
 ► Identify top-performing regions and product categories
 ► Analyze monthly sales trends and customer segmentation
 ► Build dynamic visuals for actionable business insights

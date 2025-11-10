@@ -12,7 +12,7 @@ This interactive Power BI dashboard analyzes business sales performance using th
 # Tools
 Power BI: Data modeling, DAX measures, visual design  
 Excel: Dataset review  
-Dataset: [Superstore Dataset from Kaggle] (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
+Dataset: [Superstore Dataset from Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
 
 # Key Metrics (KPIs)
 

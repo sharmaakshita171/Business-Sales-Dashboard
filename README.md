@@ -26,6 +26,8 @@ It provides key insights into **revenue**, **profit**, and **customer behavior**
 
 ## 📈 **<u>Key Metrics (KPIs)</u>**
 
+<img width="904" height="588" alt="image" src="https://github.com/user-attachments/assets/f8684bf8-a889-4f7e-81de-d3082682a12e" />
+
 | KPI | Description | Example Value |
 |------|--------------|---------------|
 | **Total Sales** | Total revenue generated | **2.30M** |

@@ -1,6 +1,6 @@
 # 🏪 **Business Sales Dashboard – Power BI Project**
 
-<img src="Dashboard_Preview.png" width="800">
+<img src="SuperStore Business Analysis" width="800">
 
 ---
 
@@ -20,7 +20,6 @@ It provides key insights into **revenue**, **profit**, and **customer behavior**
 
 ## 🧰 **<u>Tools & Technologies</u>**
 - **Power BI** – Data modeling, DAX calculations, visualization design  
-- **Python (Pandas)** – Data cleaning and feature engineering  
 - **Excel** – Data validation and quick analysis  
 - **Dataset:** [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
@@ -30,10 +29,10 @@ It provides key insights into **revenue**, **profit**, and **customer behavior**
 
 | KPI | Description | Example Value |
 |------|--------------|---------------|
-| 💰 **Total Sales** | Total revenue generated | **2.30M** |
-| 💵 **Total Profit** | Net profit earned | **286.4K** |
-| 📦 **Total Quantity** | Total items sold | **38K** |
-| 📊 **Avg Profit Margin %** | Profit-to-sales ratio | **12.03%** |
+| **Total Sales** | Total revenue generated | **2.30M** |
+| **Total Profit** | Net profit earned | **286.4K** |
+| **Total Quantity** | Total items sold | **38K** |
+| **Avg Profit Margin %** | Profit-to-sales ratio | **12.03%** |
 
 ---
 
@@ -43,7 +42,6 @@ It provides key insights into **revenue**, **profit**, and **customer behavior**
 - **Top 10 Products** and **Top 10 Customers** visualizations  
 - **Monthly Sales Trend** and **Sales by Region** analysis  
 - Color-coded **profitability insights** (green = profit, red = loss)  
-- **Drill-down navigation** for detailed analysis  
 
 ---
 
@@ -57,17 +55,18 @@ It provides key insights into **revenue**, **profit**, and **customer behavior**
 ---
 
 ## 📂 **<u>Project Structure</u>**
-Business-Sales-Dashboard/
-│
-├── Business_Sales_Dashboard.pbix # Power BI file
-├── Dashboard_Preview.png # Dashboard screenshot
-├── README.md # Project documentation
-└── Superstore.csv # Dataset (or Kaggle link)
+
+Business-Sales-Dashboard/  
+│  
+├── SuperStore.pbix                            # Power BI file  
+├── SuperStore Business Analysis.png           # Dashboard screenshot  
+├── README.md                                  # Project documentation  
+└── Superstore.csv                             # Dataset (and Kaggle link)  
 
 ---
 
 ## 🚀 **<u>How to Use</u>**
-1. Download the `.pbix` file  
+1. Download the '.pbix' file  
 2. Open it in **Power BI Desktop**  
 3. Explore interactive visuals, filters, and KPIs  
 
@@ -79,7 +78,7 @@ Business-Sales-Dashboard/
 *Data Analyst | Power BI | Python | Excel | Visualization*  
 
 📍 Chandigarh University  
-📫 [LinkedIn](https://linkedin.com/in/akshita-sharma) • [GitHub](https://github.com/akshita-sharma)
+📫 [LinkedIn](https://www.linkedin.com/in/akshita-sharma-4b2017231/) • [GitHub](https://github.com/sharmaakshita171/)
 
 ---
 

@@ -1,6 +1,5 @@
 # 🏪 **Business Sales Dashboard – Power BI Project**
-
-<img src="SuperStore Business Analysis" width="800">
+<img width="1307" height="728" alt="SuperStore Business Analysis" src="https://github.com/user-attachments/assets/ceb13ecd-690f-46b6-94f6-0251ac69dbcb" />
 
 ---
 

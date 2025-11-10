@@ -16,14 +16,12 @@ Dataset: [Superstore Dataset from Kaggle] (https://www.kaggle.com/datasets/vivek
 
 # Key Metrics (KPIs)
 
- --------------------------- ------------------------------- -----------------  
-|  **Metric**	                |   **Description**	                |  **Example Value**  |  
- --------------------------- ------------------------------- -----------------  
-|  **Total Sales**            | 	Overall revenue	generated   |  2.30M          |  
-|  **Total Profit**           |	  Net profit                  |	 286.4K	        |  
-|  **Total Quantity**         |	  Units sold                  |	 38K	          |  
-|  **Avg Profit Margin %**    |	  Profit ratio	              |  12.03%         |  
- --------------------------- ------------------------------- -----------------  
+| Metric | Description | Example Value |
+|--------|--------------|---------------|
+| 💰 **Total Sales** | Total revenue generated | 2.30M |
+| 💵 **Total Profit** | Net profit earned | 286.4K |
+| 📦 **Total Quantity** | Total items sold | 38K |
+| 📊 **Avg Profit Margin %** | Profit-to-sales ratio | 12.03% |
 
 # Dashboard Features
 

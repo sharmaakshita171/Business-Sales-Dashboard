@@ -1,15 +1,15 @@
-# 🏪 **Business Sales Dashboard – Power BI Project**
+# **Business Sales Dashboard – Power BI Project**
 <img width="1307" height="728" alt="SuperStore Business Analysis" src="https://github.com/user-attachments/assets/ceb13ecd-690f-46b6-94f6-0251ac69dbcb" />
 
 ---
 
-## 📊 **<u>Overview</u>**
+## **<u>Overview</u>**
 An interactive **Power BI dashboard** analyzing **business sales performance** using the *Superstore dataset*.  
 It provides key insights into **revenue**, **profit**, and **customer behavior** across regions, categories, and time periods.  
 
 ---
 
-## 🎯 **<u>Objectives</u>**
+## **<u>Objectives</u>**
 - Identify top-performing **regions** and **product categories**  
 - Analyze **sales trends** over time  
 - Measure **profit margins** and **customer segments**  
@@ -17,14 +17,14 @@ It provides key insights into **revenue**, **profit**, and **customer behavior**
 
 ---
 
-## 🧰 **<u>Tools & Technologies</u>**
+## **<u>Tools & Technologies</u>**
 - **Power BI** – Data modeling, DAX calculations, visualization design  
 - **Excel** – Data validation and quick analysis  
 - **Dataset:** [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
 
-## 📈 **<u>Key Metrics (KPIs)</u>**
+## **<u>Key Metrics (KPIs)</u>**
 
 <img width="452" height="294" alt="image" src="https://github.com/user-attachments/assets/f8684bf8-a889-4f7e-81de-d3082682a12e" />
 
@@ -37,7 +37,7 @@ It provides key insights into **revenue**, **profit**, and **customer behavior**
 
 ---
 
-## 🧩 **<u>Dashboard Features</u>**
+## **<u>Dashboard Features</u>**
 - Interactive **filters and slicers** (Region, Category, Segment)  
 - Dynamic **KPI cards** with real-time values  
 - **Top 10 Products** and **Top 10 Customers** visualizations  
@@ -46,16 +46,16 @@ It provides key insights into **revenue**, **profit**, and **customer behavior**
 
 ---
 
-## 💡 **<u>Key Insights</u>**
-- 💼 **West Region** generated the highest sales but with moderate profit margins  
-- 💻 **Technology** category contributed the most to revenue growth  
-- 📅 Sales spiked during **October–December**, showing a strong seasonal trend  
-- 👥 **Top 10 customers** accounted for a significant portion of total revenue  
-- 🧾 **Office Supplies** sold in large volume but with lower profitability  
+## **<u>Key Insights</u>**
+- **West Region** generated the highest sales but with moderate profit margins  
+- **Technology** category contributed the most to revenue growth  
+- Sales spiked during **October–December**, showing a strong seasonal trend  
+- **Top 10 customers** accounted for a significant portion of total revenue  
+- **Office Supplies** sold in large volume but with lower profitability  
 
 ---
 
-## 📂 **<u>Project Structure</u>**
+## **<u>Project Structure</u>**
 
 Business-Sales-Dashboard/  
 │  
@@ -66,16 +66,16 @@ Business-Sales-Dashboard/
 
 ---
 
-## 🚀 **<u>How to Use</u>**
+## **<u>How to Use</u>**
 1. Download the '.pbix' file  
 2. Open it in **Power BI Desktop**  
 3. Explore interactive visuals, filters, and KPIs  
 
 ---
 
-## 🌐 **<u>Author</u>**
+## **<u>Author</u>**
 
-👩‍💻 **Akshita Sharma**  
+**Akshita Sharma**  
 *Data Analyst | Power BI | Python | Excel | Visualization*  
 
 📍 Chandigarh University  
